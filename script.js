@@ -1,7 +1,7 @@
 const routes = {
-  home: '<h1>Welcome to Home Page</h1>',
-  about: '<h1>About Us</h1><p>This is the about page.</p>',
-  contact: '<h1>Contact Us</h1><p>Email us at contact@example.com</p>',
+  home: '<h1>Welcome to Home Page of Knuck Bar</h1>',
+  about: '<h1>About Us</h1><p>This is the about page of Knuck Bar.</p>',
+  contact: '<h1>Contact Us</h1><p>Email us at knuckbar@example.com</p>',
 };
 
 function navigate(page) {
